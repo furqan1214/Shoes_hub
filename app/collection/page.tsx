@@ -260,7 +260,7 @@ Our Collection
 
 </h1>
 
-<p className="text-white text-lg sm:text-2xl max-w-2xl animate-slide-up opacity-0 [animation-delay:200ms]">
+<p className="text-white text-lg sm:text-2xl max-w-2xl animate-slide-up opacity-70 [animation-delay:200ms]">
 
 Explore our complete collection of premium footwear. From casual to formal,
 
