@@ -246,7 +246,7 @@ return (
 
 <div className="absolute inset-0 animate-ken-burns">
 
-<div className="absolute inset-0 bg-[url('/images/usd.jpg')] bg-cover bg-center scale-110" />
+<div className="absolute inset-0 bg-[url('/images/collection.jpg')] bg-cover bg-center scale-110" />
 
 </div>
 
@@ -260,7 +260,7 @@ Our Collection
 
 </h1>
 
-<p className="text-white text-lg sm:text-2xl max-w-2xl animate-slide-up opacity-70 [animation-delay:200ms]">
+<p className="text-white text-lg sm:text-2xl max-w-2xl animate-slide-up opacity-0 [animation-delay:200ms]">
 
 Explore our complete collection of premium footwear. From casual to formal,
 
