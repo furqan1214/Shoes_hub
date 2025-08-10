@@ -246,7 +246,7 @@ return (
 
 <div className="absolute inset-0 animate-ken-burns">
 
-<div className="absolute inset-0 bg-[url('/images/collection.jpg')] bg-cover bg-center scale-110" />
+<div className="absolute inset-0 bg-[url('/images/usd.jpg')] bg-cover bg-center scale-110" />
 
 </div>
 
