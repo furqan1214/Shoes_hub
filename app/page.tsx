@@ -43,7 +43,7 @@ export default function Home() {
       <a href="/men" className="group animate-slide-up opacity-0 [animation-delay:200ms]">
         <div className="relative h-48 sm:h-64 bg-gray-200 rounded-lg overflow-hidden">
           <Image
-            src="/images/mens-category.jpg"
+            src="/images/otc.jpg"
             alt="Men's Collection"
             fill
             className="object-cover object-center group-hover:scale-110 transition-transform duration-700"
