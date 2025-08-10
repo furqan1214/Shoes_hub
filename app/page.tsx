@@ -7,7 +7,7 @@ export default function Home() {
 <section className="relative h-[400px] sm:h-[500px] md:h-[600px] bg-gray-100 overflow-hidden">
   <div className="absolute inset-0 animate-ken-burns">
     <Image
-      src="/images/bilkulnew.jpg"
+      src="/images/wert.jpg"
       alt="Hero background"
       layout="fill"
       objectFit="cover"
