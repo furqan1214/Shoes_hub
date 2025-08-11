@@ -11,6 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "ShoesHub | Premium Footwear Collection",
   description: "Discover our exclusive collection of premium shoes. From casual to formal, find your perfect pair.",
+  keywords:"Shoes website,Online shoes website,Shoes in cheap price,Best shoes sale"
 };
 
 export default function RootLayout({
